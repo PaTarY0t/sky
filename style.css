@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: #ffffff;
+  overflow: hidden;
+}
+.PaTarY0t {
+  position: absolute;
+  font-size: 1.5em;
+  color: #ffffff;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
+  animation: fall 10s linear infinite, twinkle 1.5s ease-in-out infinite;
+  pointer-events: none;
+}
